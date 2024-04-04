@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eslaine, mas todos me chama de Anne</h1>
+<h1 align="center">Oi 👋, Eu sou Eslaine, mas todos me chama de Anne</h1>
 <h3 align="center">Uma analista apaixonada por dados!!</h3>
 
 - 🔭Atualmente, estou trabalhando com análise e visualização de dados **Análise de Mercado utilizando a Segmentação RFM**
