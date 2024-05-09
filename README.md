@@ -52,7 +52,7 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
 
 ###
 
-## POrtifólio:
-- Análise das Músicas mais Ouvidas em 2023 no Spotify: 
+## Portifólio:
+**Análise das Músicas mais Ouvidas em 2023 no Spotify:** [`Ficha Técnica`](https://github.com/annesantos1990/spotify_project.git)
 
 
