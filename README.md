@@ -14,18 +14,6 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
 ## Portifólio:
 **Análise das Músicas mais Ouvidas em 2023 no Spotify:** [`Ficha Técnica`](https://github.com/annesantos1990/spotify_project.git)
 
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=annesantos1990&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annesantos1990&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-![giphy](https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba)
-
-
 ### Linguagens:
 
 <div align="left">
@@ -35,6 +23,7 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
 </div>
 
 ###
+![giphy](https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba)###
 
 <br clear="both">
 
@@ -47,7 +36,22 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
   </a>
 </div>
 
+
+
+
+
+
 ###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=annesantos1990&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annesantos1990&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
+
 
 
 
