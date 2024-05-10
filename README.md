@@ -11,6 +11,9 @@ Este é um repositório para mostrar meus principais projetos de Data Analytics!
 
 Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de análise de dados. Para acessar meu LinkedIn, acesse [aqui.](https://www.linkedin.com/in/eslaine-santos-e-santos-46159a28/)
 
+## Portifólio:
+**Análise das Músicas mais Ouvidas em 2023 no Spotify:** [`Ficha Técnica`](https://github.com/annesantos1990/spotify_project.git)
+
 
 ###
 
@@ -23,7 +26,7 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
 ![giphy](https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba)
 
 
-###
+### Linguagens:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -46,7 +49,6 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
 
 ###
 
-## Portifólio:
-**Análise das Músicas mais Ouvidas em 2023 no Spotify:** [`Ficha Técnica`](https://github.com/annesantos1990/spotify_project.git)
+
 
 
