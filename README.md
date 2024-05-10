@@ -36,11 +36,6 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
   </a>
 </div>
 
-
-
-
-
-
 ###
 
 <div align="left">
