@@ -12,8 +12,8 @@ Este é um repositório para mostrar meus principais projetos de Data Analytics!
 Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de análise de dados. Para acessar meu LinkedIn, acesse [aqui.](https://www.linkedin.com/in/eslaine-santos-e-santos-46159a28/)
 
 ## Portfólio:
-**Análise das Músicas mais Ouvidas em 2023 no Spotify:** [`Ficha Técnica`](https://github.com/annesantos1990/spotify_project.git)
-**Análise e Classificação do risco de crédito dos clientes de um banco** [`Ficha Técnica`](https://github.com/annesantos1990/relative_risk_project)
+* **Análise das Músicas mais Ouvidas em 2023 no Spotify:** [`Ficha Técnica`](https://github.com/annesantos1990/spotify_project.git)
+* **Análise e Classificação do risco de crédito dos clientes de um banco** [`Ficha Técnica`](https://github.com/annesantos1990/relative_risk_project)
 
 ### Linguagens:
 
