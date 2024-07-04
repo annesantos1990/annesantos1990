@@ -16,7 +16,7 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
 * **Análise e Classificação do risco de crédito dos clientes de um banco:** [`Ficha Técnica`](https://github.com/annesantos1990/relative_risk_project)
 
 ## Dashboards - PowerBi
-* [Projeto Cicloviajes](https://app.powerbi.com/view?r=eyJrIjoiMjhhMDMyZDEtOTI4NS00YWNhLWE3YzAtZmUwNTQxMjBiYWZjIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88)
+* [Projeto Cicloviajes](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88)
 
 
 ### Linguagens:
