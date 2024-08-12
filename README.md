@@ -1,5 +1,5 @@
 ![Banner - data analytcs](https://github.com/user-attachments/assets/728e3432-2de6-445a-85ad-7cc1279f9772)
-<h2 align="left">Olá Mundo, eu sou Eslaine Santos</h2>
+<h2 align="left">Olá Mundo! Eu sou Eslaine Santos</h2>
 Uma analista apaixonada por dados!!
 
 ###
