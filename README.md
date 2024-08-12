@@ -69,10 +69,6 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
 </div>
 
 ###
-![giphy](https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba)
-
-
-###
 
 <br clear="both">
 
