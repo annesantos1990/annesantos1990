@@ -1,35 +1,73 @@
-![2](https://github.com/annesantos1990/annesantos1990/assets/166059836/2819c1e3-5965-4512-af73-916afe93e743)
-<h2 align="left">Eslaine Santos</h2>
-<sub>Uma analista apaixonada por dados!!</sub>
+![Banner - data analytcs](https://github.com/user-attachments/assets/728e3432-2de6-445a-85ad-7cc1279f9772)
+<h2 align="left">Olá Mundo, eu sou Eslaine Santos</h2>
+Uma analista apaixonada por dados!!
 
 ###
 
-Formada em Bacharelado em Física e estou concluindo minha formação em Análise de Dados. Desenvolvi uma base sólida em pesquisa científica e uma paixão por dados ao descobrir insights significativos nessas pesquisas!
+* Analista de dados apaixonada por tecnologia e pesquisa, tenho uma longa trajetória na pesquisa científica e desenvolvi uma paixão por dados ao descobrir insights significativos nessas pesquisas!
 
-Durante meus estudos de análise de dados, aprimorei minha capacidade de trabalhar com dados complexos e desenvolvi um olhar aguçado para identificar padrões e tendências. Também aprimorei meus conhecimentos de algumas ferramentas tecnológicas como Google Sheets, Excel e SQL, Power Bi, Looker Studio e Python.
+* Durante meus estudos de análise de dados, aprimorei minha capacidade de trabalhar com projetos de diferentes áreas, desenvolvi um olhar aguçado para identificar padrões e tendências.
+
 Este é um repositório para mostrar meus principais projetos de Data Analytics!
 
 Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de análise de dados. Para acessar meu LinkedIn, acesse [aqui.](https://www.linkedin.com/in/eslaine-santos-e-santos-46159a28/)
 
+#### Ferramentas de Data Analytics:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="2" />
+  <img src="https://github.com/user-attachments/assets/eee008a0-f5ed-43a1-8b56-ce67a37de27d" height="30" alt="power bi logo"  />
+  <img width="2" />
+  <img src="https://github.com/user-attachments/assets/1605e268-4b12-469c-bc12-b1419572a0f9" height="30" alt="looker studio logo"  />
+  <img width="2" />
+  <img src="https://github.com/user-attachments/assets/b1fdab1b-2e10-48e4-9596-df0cc6dbda27" height="30" alt="big query logo"  />
+  <img width="2" />
+
+#### Linguagens e Bibliotecas: 
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img align="center" alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
+#### Office Tools:
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="GoogleSheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+   <img align="center" alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+</div>
+
 ## Portfólio:
-* **Análise das Músicas mais Ouvidas em 2023 no Spotify:** [`Ficha Técnica`](https://github.com/annesantos1990/spotify_project.git)
-* **Análise e Classificação do risco de crédito dos clientes de um banco:** [`Ficha Técnica`](https://github.com/annesantos1990/relative_risk_project)
-* **Análise do conjunto de dados do programa Citi Bike NYC.:** [`Ficha Técnica`](https://github.com/annesantos1990/cicloviajes_project/)
+* [**Análise das Músicas mais Ouvidas em 2023 no Spotify**](https://github.com/annesantos1990/spotify_project.git)
+* [**Análise e Classificação do risco de crédito dos clientes de um banco**](https://github.com/annesantos1990/relative_risk_project)
+* [**Análise do conjunto de dados do programa Citi Bike NYC.**](https://github.com/annesantos1990/cicloviajes_project/)
+* [**Análise das avaliações dos produtos da Amazon**](https://github.com/annesantos1990/amazon_project)
 
 ## Dashboards - PowerBi
 * [Projeto Cicloviajes](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88)
 
 
-### Linguagens:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
+
+
+  
+ 
 </div>
 
 ###
-![giphy](https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba)###
+![giphy](https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba)
+
+
+###
 
 <br clear="both">
 
