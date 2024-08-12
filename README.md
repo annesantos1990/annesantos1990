@@ -1,4 +1,4 @@
-![Banner - data analytcs](https://github.com/user-attachments/assets/728e3432-2de6-445a-85ad-7cc1279f9772)
+![2](https://github.com/user-attachments/assets/92bbe8c3-8199-45b8-9735-b215b1834a84)
 <h2 align="left">Olá Mundo! Eu sou Eslaine Santos</h2>
 Uma analista apaixonada por dados!!
 
