@@ -12,6 +12,15 @@ Este é um repositório para mostrar meus principais projetos de Data Analytics!
 
 Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de análise de dados. Para acessar meu LinkedIn, acesse [aqui.](https://www.linkedin.com/in/eslaine-santos-e-santos-46159a28/)
 
+## Portfólio:
+* [**Análise das Músicas mais Ouvidas em 2023 no Spotify**](https://github.com/annesantos1990/spotify_project.git)
+* [**Análise e Classificação do risco de crédito dos clientes de um banco**](https://github.com/annesantos1990/relative_risk_project)
+* [**Análise do conjunto de dados do programa Citi Bike NYC.**](https://github.com/annesantos1990/cicloviajes_project/)
+* [**Análise das avaliações dos produtos da Amazon**](https://github.com/annesantos1990/amazon_project)
+
+## Dashboards - PowerBi
+* [Projeto Cicloviajes](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88)
+
   ###
 <img align="right" height="300" src="https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba"  />
 
@@ -56,18 +65,7 @@ Compartilho no LikendIn meus conhecimentos sobre as diferentes ferramentas de an
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E" />
 
 
-## Portfólio:
-* [**Análise das Músicas mais Ouvidas em 2023 no Spotify**](https://github.com/annesantos1990/spotify_project.git)
-* [**Análise e Classificação do risco de crédito dos clientes de um banco**](https://github.com/annesantos1990/relative_risk_project)
-* [**Análise do conjunto de dados do programa Citi Bike NYC.**](https://github.com/annesantos1990/cicloviajes_project/)
-* [**Análise das avaliações dos produtos da Amazon**](https://github.com/annesantos1990/amazon_project)
-
-## Dashboards - PowerBi
-* [Projeto Cicloviajes](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88)
-
  
-</div>
-
 ###
 
 <br clear="both">
