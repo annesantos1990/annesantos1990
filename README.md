@@ -16,7 +16,7 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
  
 ## Portfolio:
 
-<img align="right" height="160" src="https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba"  />
+<img align="right" height="150" src="https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba"  />
 
 * [**Analysis of the Most Listened Songs in 2023 on Spotify**](https://github.com/annesantos1990/spotify_project.git)
 * [**Analysis and Classification of Credit Risk for a Bank’s Customers**](https://github.com/annesantos1990/relative_risk_project)
@@ -24,8 +24,11 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 * [**Analysis of Amazon Product Reviews**](https://github.com/annesantos1990/amazon_project)
 
 ## Dashboards - PowerBi
-* [Cicloviajes Project](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88) 
-* [Amazon Project](https://app.powerbi.com/view?r=eyJrIjoiMTRjYTA1ZGMtNDMxMS00MmU0LWEzYjEtYzhmODYzYmRlYWMyIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=6310dbc2a0723055404b) 
+▶️ [Spotify Project](https://app.powerbi.com/view?r=eyJrIjoiZDIwZGM4NjktZmFhYi00ZmJlLTlhOTYtNTJkMjI0M2ZkYTkyIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9)
+
+🚲 [Cicloviajes Project](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88) 
+
+📦 [Amazon Project](https://app.powerbi.com/view?r=eyJrIjoiMTRjYTA1ZGMtNDMxMS00MmU0LWEzYjEtYzhmODYzYmRlYWMyIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=6310dbc2a0723055404b)
 
 ## Skills
 #### Data Visualization Tools:
