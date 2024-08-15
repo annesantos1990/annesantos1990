@@ -27,7 +27,7 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 * [Cicloviajes Project](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88) 
 * [Amazon Project](https://app.powerbi.com/view?r=eyJrIjoiMTRjYTA1ZGMtNDMxMS00MmU0LWEzYjEtYzhmODYzYmRlYWMyIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=6310dbc2a0723055404b) 
 
-
+## Skills
 #### Data Visualization Tools:
 
 <div align="left">
@@ -38,12 +38,13 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 
 
 #### Languages and Libraries: 
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
   <img align="center" alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ 
 
 #### Platforms:
 
@@ -62,7 +63,7 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 
 
  
-### Contato:
+## Contato:
 
 
 <div align="left">
