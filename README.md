@@ -18,8 +18,9 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 
 <img align="right" height="150" src="https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba"  />
 
-* [**Analysis of the Most Listened Songs in 2023 on Spotify**](https://github.com/annesantos1990/spotify_project.git)
-* [**Analysis and Classification of Credit Risk for a Bank’s Customers**](https://github.com/annesantos1990/relative_risk_project)
+* [**Customer Segmentation using RFM Analysis**](https://github.com/annesantos1990/rfm_segmentation/)
+* [**Spotify Data Analysis**](https://github.com/annesantos1990/spotify_project.git)
+* [**Credit Risk Analysis**](https://github.com/annesantos1990/relative_risk_project)
 * [**Analysis of the Citi Bike NYC Program Dataset**](https://github.com/annesantos1990/cicloviajes_project/)
 * [**Analysis of Amazon Product Reviews**](https://github.com/annesantos1990/amazon_project)
 
