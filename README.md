@@ -18,7 +18,7 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 
 <img align="right" height="150" src="https://github.com/annesantos1990/annesantos1990/assets/166059836/2dd20abe-09b1-411e-9dbe-2d15dfab18ba"  />
 
-* [**Customer Segmentation using RFM Analysis**](https://github.com/annesantos1990/rfm_segmentation/)
+* [**Customer Segmentation using RFM Analysis**](https://github.com/annesantos1990/rfm_analysis)
 * [**Spotify Data Analysis**](https://github.com/annesantos1990/spotify_project.git)
 * [**Credit Risk Analysis**](https://github.com/annesantos1990/relative_risk_project)
 * [**Analysis of the Citi Bike NYC Program Dataset**](https://github.com/annesantos1990/cicloviajes_project/)
@@ -30,6 +30,12 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 🚲 [Cicloviajes Project](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88) 
 
 📦 [Amazon Project](https://app.powerbi.com/view?r=eyJrIjoiMTRjYTA1ZGMtNDMxMS00MmU0LWEzYjEtYzhmODYzYmRlYWMyIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=6310dbc2a0723055404b)
+
+## Dashboards - Looker Studio
+[RFM Analysis Project](https://lookerstudio.google.com/reporting/b583cbb9-833b-46a2-a6da-4a1eec0413ec)
+
+[Credit Risk Analysis](https://lookerstudio.google.com/reporting/f2abbd47-882a-4030-9f30-e8dc170a37fd)
+
 
 ## Skills
 #### Data Visualization Tools:
