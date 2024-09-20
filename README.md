@@ -36,6 +36,8 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 
 [Credit Risk Analysis](https://lookerstudio.google.com/reporting/f2abbd47-882a-4030-9f30-e8dc170a37fd)
 
+[Diversity Analysis](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b)
+
 
 ## Skills
 #### Data Visualization Tools:
