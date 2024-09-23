@@ -23,6 +23,7 @@ I share my knowledge about different data analysis tools on LinkedIn. To access,
 * [**Credit Risk Analysis**](https://github.com/annesantos1990/relative_risk_project)
 * [**Analysis of the Citi Bike NYC Program Dataset**](https://github.com/annesantos1990/cicloviajes_project/)
 * [**Analysis of Amazon Product Reviews**](https://github.com/annesantos1990/amazon_project)
+* [**Diversity in the Tech Industry Analysis**](https://github.com/annesantos1990/diversity_analysis)
 
 ## Dashboards - PowerBi
 ▶️ [Spotify Project](https://app.powerbi.com/view?r=eyJrIjoiZDIwZGM4NjktZmFhYi00ZmJlLTlhOTYtNTJkMjI0M2ZkYTkyIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9)
