@@ -5,13 +5,29 @@ A data-driven analyst with a passion for insights!!
 
 ###
 
-* I am a data analyst with a love for technology and knowledge. I have a long history in scientific research and developed a passion for data by discovering meaningful insights through these studies!
 
-* During my data analysis studies, I enhanced my ability to work on projects from various fields and developed a keen eye for identifying patterns and trends.
+👋 **About Me**  
 
-This repository showcases my key Data Analytics projects!
+I am a Data Analyst passionate about technology and knowledge. With a degree in Physics, I have built a solid background in scientific research, which sparked my passion for data and how it can be used to solve challenges in both academic and corporate environments.  
 
-I share my knowledge about different data analysis tools on LinkedIn. To access, click [here.](https://www.linkedin.com/in/eslaine-santos-e-santos-46159a28/)
+🎓 **My Journey in Data Analytics**  
+
+I participated in a Data Analytics Bootcamp, where I developed and applied my research-driven skills to various projects in data analysis and data science. I invite you to explore my portfolio available here on GitHub!  
+
+🛠️ **Skills and Tools**  
+
+I have experience with key tools and technologies essential for data analysis and data science, such as:  
+
+* SQL  
+* Python  
+* Power BI  
+* Looker Studio  
+
+In addition, I have developed important skills like data storytelling, project documentation, version control, and agile methodologies. Further below, you can find the complete list of all the tools I am proficient in.
+
+📚 **Continuous Learning**  
+
+I am currently pursuing an MBA in Data Science and Analytics at USP/ESALQ, aiming to consolidate and expand my expertise as a Data Scientist.  
 
  
 ## Portfolio:
