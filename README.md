@@ -1,14 +1,12 @@
-![2](https://github.com/user-attachments/assets/92bbe8c3-8199-45b8-9735-b215b1834a84)
 <h2 align="left">Hello World! 👋 I'm Eslaine Santos</h2>
 
-A data-driven analyst with a passion for insights!!
 
 ###
 
-
 👋 **About Me**  
 
-I am a Data Analyst passionate about technology and knowledge. With a degree in Physics, I have built a solid background in scientific research, which sparked my passion for data and how it can be used to solve challenges in both academic and corporate environments.  
+I am a Data Analyst and Scientist passionate about technology and knowledge. With a degree in Physics, I have built a background in scientific research, which ignited my passion for data and its potential to solve challenges across academic and corporate settings.  
+
 
 🎓 **My Journey in Data Analytics**  
 
