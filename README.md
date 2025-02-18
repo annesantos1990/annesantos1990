@@ -47,7 +47,7 @@ I am currently pursuing an MBA in Data Science and Analytics at USP/ESALQ, aimin
 
 📦 [Amazon Project](https://app.powerbi.com/view?r=eyJrIjoiMTRjYTA1ZGMtNDMxMS00MmU0LWEzYjEtYzhmODYzYmRlYWMyIiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=6310dbc2a0723055404b)
 
-📈 [Sales Project](https://app.powerbi.com/view?r=eyJrIjoiMzU3NzAwM2UtYTNjZS00MGI3LTgwMTctYzNlOTYwM2Q5ZTUzIiwidCI6IjZkMGI5OTE3LWQ4N2YtNDY2NC1hZDBkLWRjOTE4MjU4YmFjMCJ9)
+📈 [Sales Project](https://app.powerbi.com/view?r=eyJrIjoiMzU3NzAwM2UtYTNjZS00MGI3LTgwMTctYzNlOTYwM2Q5ZTUzIiwidCI6IjZkMGI5OTE3LWQ4N2YtNDY2NC1hZDBkLWRjOTE4MjU4YmFjMCJ9&pageName=e87dad3690c480b41045)
 
 ## Dashboards - Looker Studio
 [RFM Analysis Project](https://lookerstudio.google.com/reporting/b583cbb9-833b-46a2-a6da-4a1eec0413ec)
