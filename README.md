@@ -12,21 +12,21 @@ Sou Analista e Cientista de Dados apaixonada por tecnologia e conhecimento. Com 
 
 Participei de um Bootcamp de Análise de Dados, onde desenvolvi e apliquei minhas habilidades analíticas em diversos projetos de análise e ciência de dados. Convido você a explorar meu portfólio, disponível aqui no GitHub!
 
+📚 **Aprendizado Contínuo**  
+
+Atualmente, estou cursando um MBA em Data Science e Analytics na USP/ESALQ, com o objetivo de consolidar e expandir minha expertise como Cientista de Dados.
+
 🛠️ **Habilidades e Ferramentas**  
 
 Tenho experiência com ferramentas e tecnologias essenciais para análise e ciência de dados, como:
 
 * SQL  
-* Python  
+* Python   
 * Power BI  
 * Looker Studio  
 
 Além disso, desenvolvi habilidades importantes como storytelling com dados, documentação de projetos, controle de versão e metodologias ágeis. Mais abaixo, você encontra a lista completa das ferramentas que domino.
 
-📚 **Aprendizado Contínuo**  
-
-Atualmente, estou cursando um MBA em Data Science e Analytics na USP/ESALQ, com o objetivo de consolidar e expandir minha expertise como Cientista de Dados.
- 
 ## Portfólio:
 Nos links abaixo, vocês podem encontrar a documentação completa dos meus projetos de análise e ciência de dados.
 
