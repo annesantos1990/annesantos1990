@@ -56,6 +56,9 @@ Nos links abaixo, vocês podem encontrar a documentação completa dos meus proj
 [Análise da Diversidade](https://lookerstudio.google.com/reporting/7c9deb04-7e25-4807-8f1d-f3ebc16e1c6b)
 
 
+## MBA Data Science and Analytics - Práticas
+Repositórios com os notebooks com os projetos que desenvolvi para aplicar os conhecimentos das aulas do MBA: [Acesse Aqui](https://github.com/annesantos1990/mba-practice)
+
 ## Habilidades
 #### Ferramentas de Visualização de Dados:
 
